@@ -1,4 +1,3 @@
-
 auto = {
     "name": "Fhros mobile",
     "model": "Model U",
