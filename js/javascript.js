@@ -15,3 +15,7 @@ function tiedot(){
 }
 
 tiedot();
+
+document.getElementById("btn").addEventListener("click", function nappi() {
+    document.body.style.backgroundImage = "url('dog.gif')"
+});
